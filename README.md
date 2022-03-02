@@ -1,4 +1,4 @@
-# dong
+# Ekip
 
 ## Build Setup
 
@@ -16,7 +16,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
+#### signup create Ekip and have fun ! in the end easily count you shares
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
